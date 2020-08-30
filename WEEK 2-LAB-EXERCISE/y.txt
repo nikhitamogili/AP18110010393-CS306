@@ -1,0 +1,25 @@
+393: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+,
+b : identifier
+==: relational operator Equal To 
+3: number
+. 
+393: number
+;
+!
+,
+!=: relational operator Not Equal To
+/': invalid lexeme
+<=: relational operator Less Than or Equal To
+<: relational operator Less Than
++
+<: relational operator Less Than
+>: relational operator Greater Than
+Nikhita : identifier
+Comment Not Closed
